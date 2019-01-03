@@ -1,2 +1,2 @@
 # programming_challenges
-Solutions to programming challenges
+My solutions for programming challenges on Leetcode.
